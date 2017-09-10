@@ -16,7 +16,7 @@ import org.json.JSONObject;
 
 public class Netcom {
 
-	final String apiKey = "api_key=9d3b885e7a1862d7841f245a1f221168";
+	final String apiKey = ""; //Currently removed
 
 
 	
